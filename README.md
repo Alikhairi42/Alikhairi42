@@ -54,15 +54,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alikhairi42&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Alikhairi42&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alikhairi42&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alikhairi42&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-</div>
-
----
 
 ### 🤝 Connect
 
