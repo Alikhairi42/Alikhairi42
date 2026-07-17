@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelali%20Khairi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%201337%20(UM6P)%20%7C%20Morocco%20🇲🇦&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+System+Programming+Focus;C+•+C%2B%2B+•+Golang+•+React;1337+Coding+School+(UM6P)+Student;Always+learning%2C+always+building+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+System+Programming+Focus;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Golang+%E2%80%A2+React;1337+Coding+School+(UM6P)+Student" alt="Typing SVG"/>
 
 <br/>
 
