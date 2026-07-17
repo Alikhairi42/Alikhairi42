@@ -16,7 +16,7 @@
 
 - 🎓 Software Engineering Student at **1337 Coding School (UM6P)** – Rabat  
 - 💻 Full Stack Developer focused on **Backend & System Programming**  
-- ⚙️ Engineering background in **Electromechanics & Industrial Automation**  
+- ⚙️ background in **Mechatronics & Industrial Automation**  
 - 🌱 Currently working with **Golang, React, C/C++**  
 - 🤝 Open to collaborating on interesting projects  
 
