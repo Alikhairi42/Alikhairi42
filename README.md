@@ -54,8 +54,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Alikhairi42&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alikhairi42&show_icons=true&theme=tokyonight&hide_border=true"/>
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alikhairi42&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
