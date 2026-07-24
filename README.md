@@ -23,10 +23,10 @@ Software Engineering student at 1337 Coding School (UM6P), with a primary focus 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alikhairi42&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alikhairi42&layout=compact&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Alikhairi42&label=Profile%20Views&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Alikhairi42?label=Followers&style=flat-square)
 
 ## Contact
 
 - **LinkedIn:** [abdelali-khairi](https://www.linkedin.com/in/abdelali-khairi/)
-- **Email:** abdelali.khairi50@gmail.com
+- **Email:** abdelali.khairi@gmail.com
