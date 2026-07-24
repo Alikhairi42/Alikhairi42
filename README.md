@@ -29,4 +29,4 @@ Software Engineering student at 1337 Coding School (UM6P), with a primary focus 
 ## Contact
 
 - **LinkedIn:** [abdelali-khairi](https://www.linkedin.com/in/abdelali-khairi/)
-- **Email:** abdelali.khairi@gmail.com
+- **Email:** abdelali.khairi50@gmail.com
