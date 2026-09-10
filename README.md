@@ -25,7 +25,6 @@ Building reliable web applications and backend systems with a strong focus on cl
 
 ## Tech Stack
 
-```txt
 Languages     : C, C++, Go, JavaScript, TypeScript, SQL
 Frontend      : React, HTML/CSS, Tailwind CSS
 Backend       : Node.js, Express.js, REST APIs
@@ -67,4 +66,3 @@ Networking    : TCP/IP, Sockets (basics)
 - Portfolio: https://abdelalikhairi.com
 - LinkedIn: https://www.linkedin.com/in/abdelali-khairi/
 - Email: abdelali.khairi50@gmail.com
-```
