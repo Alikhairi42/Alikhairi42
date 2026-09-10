@@ -14,16 +14,6 @@ Building reliable web applications and backend systems with a strong focus on cl
 
 ---
 
-## Profile
-
-Full Stack Engineering student at 1337 Coding School (UM6P), building production-ready applications across the full stack — from modern web development to systems programming in C/C++. My background in mechatronics and industrial automation provides a strong foundation in structured problem-solving and practical engineering.
-
-I work with **C, C++, Go, JavaScript, TypeScript, and SQL**, and I’m currently focused on building scalable applications with **React** and **Node.js**, while continuing to strengthen my systems and networking fundamentals.
-
-Open to **Full Stack internship opportunities (Morocco/Remote)**.
-
----
-
 ## What I Do
 
 - **Full Stack Development:** React + Node.js/Express, REST APIs, authentication, clean UI
@@ -33,27 +23,17 @@ Open to **Full Stack internship opportunities (Morocco/Remote)**.
 
 ---
 
-## Featured Project (AI)
-
-### Safqa — AI-Powered Price Negotiation SaaS
-
-A B2B SaaS platform enabling e-commerce shoppers to negotiate prices live with an AI agent.  
-Built the negotiation flow by combining **LLM integration** with **rules-based logic**.
-
-**Tech:** Next.js • Express.js • Vercel AI SDK • GPT-5 • REST APIs  
-**Repo:** https://github.com/Alikhairi42/safqa *(update if the repo name is different)*
-
----
-
-## My Tech Toolbox
+## Tech Stack
 
 ```txt
 Languages     : C, C++, Go, JavaScript, TypeScript, SQL
-Frontend      : React, Next.js, HTML/CSS, Tailwind CSS
+Frontend      : React, HTML/CSS, Tailwind CSS
 Backend       : Node.js, Express.js, REST APIs
 Databases     : PostgreSQL, MySQL, MariaDB, Prisma ORM
-Systems/DevOps: Linux/Unix, Docker, Git, CI/CD (basics)
-Networking    : TCP/IP, Sockets, TLS (basics)
+Systems/DevOps: Linux/Unix, Docker, Git
+Networking    : TCP/IP, Sockets (basics)
+
+---
 
 ## Selected Projects
 
