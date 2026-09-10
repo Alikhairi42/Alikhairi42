@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 ## Hi, I'm Abdelali Khairi
@@ -55,9 +54,6 @@ Backend       : Node.js, Express.js, REST APIs
 Databases     : PostgreSQL, MySQL, MariaDB, Prisma ORM
 Systems/DevOps: Linux/Unix, Docker, Git, CI/CD (basics)
 Networking    : TCP/IP, Sockets, TLS (basics)
-```
-
----
 
 ## Selected Projects
 
