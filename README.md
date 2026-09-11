@@ -12,16 +12,14 @@ Building reliable web applications and backend systems with a strong focus on cl
 
 </div>
 
----
-
 ## What I Do
 
-- **Full Stack Development:** React + Node.js/Express, REST APIs, authentication, clean UI
-- **Systems Programming:** C/C++ projects (processes, memory, sockets, Unix fundamentals)
-- **DevOps Basics:** Linux, Docker, Git, containerized environments
-- **Problem Solving:** project-based learning, debugging, and shipping end-to-end features
+- Full Stack Development:** React + Node.js/Express, REST APIs, authentication, clean UI
+- Systems Programming:** C/C++ projects (processes, memory, sockets, Unix fundamentals)
+- DevOps Basics:** Linux, Docker, Git, containerized environments
+- Problem Solving:** project-based learning, debugging, and shipping end-to-end features
 
----
+
 
 ## Tech Stack
 
@@ -32,7 +30,6 @@ Databases     : PostgreSQL, MySQL, MariaDB, Prisma ORM
 Systems/DevOps: Linux/Unix, Docker, Git
 Networking    : TCP/IP, Sockets (basics)
 
----
 
 ## Selected Projects
 
@@ -52,7 +49,7 @@ Networking    : TCP/IP, Sockets (basics)
 - ft_irc: https://github.com/Alikhairi42/ft_irc
 - Groupie Tracker: https://github.com/Alikhairi42/Groupie-Tracker
 
----
+
 
 ## GitHub Stats
 
