@@ -23,12 +23,12 @@ Building reliable web applications and backend systems with a strong focus on cl
 
 ## Tech Stack
 
-Languages     : C, C++, Go, JavaScript, TypeScript, SQL
-Frontend      : React, HTML/CSS, Tailwind CSS
-Backend       : Node.js, Express.js, REST APIs
-Databases     : PostgreSQL, MySQL, MariaDB, Prisma ORM
-Systems/DevOps: Linux/Unix, Docker, Git
-Networking    : TCP/IP, Sockets (basics)
+- Languages     : C, C++, Go, JavaScript, TypeScript, SQL
+- Frontend      : React, HTML/CSS, Tailwind CSS
+- Backend       : Node.js, Express.js, REST APIs
+- Databases     : PostgreSQL, MySQL, MariaDB, Prisma ORM
+- Systems/DevOps: Linux/Unix, Docker, Git
+- Networking    : TCP/IP, Sockets (basics)
 
 
 ## Selected Projects
