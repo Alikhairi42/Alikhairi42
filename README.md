@@ -14,10 +14,10 @@ Building reliable web applications and backend systems with a strong focus on cl
 
 ## What I Do
 
-- Full Stack Development:** React + Node.js/Express, REST APIs, authentication, clean UI
-- Systems Programming:** C/C++ projects (processes, memory, sockets, Unix fundamentals)
-- DevOps Basics:** Linux, Docker, Git, containerized environments
-- Problem Solving:** project-based learning, debugging, and shipping end-to-end features
+- Full Stack Development: React + Node.js/Express, REST APIs, authentication, clean UI
+- Systems Programming: C/C++ projects (processes, memory, sockets, Unix fundamentals)
+- DevOps Basics: Linux, Docker, Git, containerized environments
+- Problem Solving: project-based learning, debugging, and shipping end-to-end features
 
 
 
