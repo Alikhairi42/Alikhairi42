@@ -41,7 +41,7 @@ Building reliable web applications and backend systems with a strong focus on cl
 | **ft_irc** | IRC server supporting multiple clients over TCP sockets | C++ |
 | **Groupie Tracker** | Go web app consuming & visualizing structured API data | Go, REST APIs |
 
-### Project Links (update if needed)
+### Project Links
 
 - NexusForum: https://github.com/Alikhairi42/nexusforum
 - Inception: https://github.com/Alikhairi42/inception
